@@ -13,3 +13,6 @@ coverage/
 .tools/
 stuck-check.txt
 vercel-check.txt
+
+# Local Netlify folder
+.netlify

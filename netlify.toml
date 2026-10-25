@@ -1,0 +1,14 @@
+[build]
+  command = "bun run build"
+  publish = "dist"
+
+[dev]
+  command = "npx vite"
+  targetPort = 5173
+  framework = "#custom"
+
+# Single-page app fallback (e.g. /xii-social-panel/login). API and upload routes are served by functions.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
