@@ -1,0 +1,1089 @@
+{
+  "site_settings": {
+    "site_title": "IPS BE THE ONE — XII IPS, MAN 3 BANJAR",
+    "school_name": "MAN 3 BANJAR",
+    "class_name": "IPS BE THE ONE",
+    "class_year": "2025 / 2026",
+    "tagline": "ONE CLASS. ONE STORY. ONE FOREVER.",
+    "hero_image_url": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&q=80&w=1920",
+    "opening_title": "IPS BE THE ONE",
+    "opening_subtitle": "XII IPS — MAN 3 BANJAR",
+    "opening_description": "ONE CLASS. ONE STORY. ONE FOREVER. Sebuah ruang digital eksklusif untuk mengabadikan setiap cerita, tawa, perjuangan, dan ikatan abadi keluarga besar XII IPS MAN 3 Banjar.",
+    "closing_title": "CERITA INI TIDAK BENAR-BENAR BERAKHIR",
+    "closing_description": "Mungkin setelah ini kita akan melangkah ke jalan dan mimpi masing-masing. Namun, setiap kenangan, tawa, dan kebersamaan yang pernah kita ukir bersama akan tetap abadi dalam IPS BE THE ONE — XII IPS, MAN 3 Banjar.",
+    "logo_url": "/assets/logo-xii-social.svg",
+    "favicon_url": "/favicon.ico",
+    "theme_settings": {
+      "bg_primary": "#080808",
+      "bg_secondary": "#000000",
+      "card_bg": "rgba(20, 20, 20, 0.85)",
+      "text_primary": "#FFFFFF",
+      "text_secondary": "#B3B3B3",
+      "glow_primary": "#E50914",
+      "glow_secondary": "#B81D24",
+      "accent_border": "rgba(229, 9, 20, 0.4)",
+      "overlay_color": "rgba(8, 8, 8, 0.85)"
+    },
+    "audio_settings": {
+      "enabled": true,
+      "audio_url": "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3?filename=ambient-space-piano-112199.mp3",
+      "title": "IPS BE THE ONE Memory Ambience",
+      "volume": 0.35,
+      "loop": true,
+      "sfx_enabled": true
+    },
+    "seo_settings": {
+      "meta_title": "IPS BE THE ONE — XII IPS MAN 3 BANJAR",
+      "meta_description": "Website kenangan eksklusif kelas IPS BE THE ONE — XII IPS, MAN 3 Banjar. ONE CLASS. ONE STORY. ONE FOREVER.",
+      "keywords": "IPS BE THE ONE, XII IPS, MAN 3 BANJAR, Alumni MAN 3 Banjar, Buku Kenangan Digital, Class Memory Archive",
+      "og_image": "/assets/og-cover.jpg"
+    },
+    "maintenance_settings": {
+      "enabled": false,
+      "message": "Arsip kenangan sedang dalam pemeliharaan berkala. Silakan kembali dalam beberapa saat."
+    },
+    "performance_mode": "AUTO",
+    "is_published": true
+  },
+  "teachers": [
+    {
+      "id": "t-1",
+      "full_name": "Perdini Adma Sari, S.Pd",
+      "title": "Wali Kelas XII SOCIAL",
+      "photo_url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=600",
+      "description": "Wali kelas penyabar yang selalu membimbing, memberi dukungan, dan mengarahkan XII SOCIAL dengan penuh kasih dan dedikasi.",
+      "social_url": "https://instagram.com/man3banjar",
+      "is_visible": true
+    }
+  ],
+  "members": [
+    {
+      "id": "m-1",
+      "full_name": "AHMAD KUSYAIRI",
+      "nickname": "Kusyairi",
+      "photo_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Banjar, 14 Mei 2007",
+      "motto": "Terus melangkah walau perlahan, yang penting konsisten.",
+      "memory_message": "Setiap sudut MAN 3 Banjar punya cerita. Terima kasih XII Social!",
+      "hobby": "Membaca & Hadrah",
+      "dream": "Ustadz & Pengusaha Succesful",
+      "social_url": "https://instagram.com/kusyairi_14",
+      "is_officer": true,
+      "officer_role": "Seksi Keagamaan",
+      "display_order": 1,
+      "is_visible": true
+    },
+    {
+      "id": "m-2",
+      "full_name": "AISYAH",
+      "nickname": "Aisyah",
+      "photo_url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Martapura, 20 Agustus 2007",
+      "motto": "Senyum adalah kebahagiaan paling sederhana.",
+      "memory_message": "Tertawa bareng di pojok kelas adalah kenangan terindah.",
+      "hobby": "Menulis & Desain Graphics",
+      "dream": "Desainer & Edukator",
+      "social_url": "https://instagram.com/aisyah_s",
+      "is_officer": false,
+      "display_order": 2,
+      "is_visible": true
+    },
+    {
+      "id": "m-3",
+      "full_name": "AISYATURRIDHA",
+      "nickname": "Aisya",
+      "photo_url": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Banjar, 10 Oktober 2006",
+      "motto": "Disiplin dan keteguhan hati membawa ketenangan.",
+      "memory_message": "Menjaga ketertiban kelas XII Social adalah petualangan seru!",
+      "hobby": "Olahraga & Fotografi",
+      "dream": "Polwan / Aparat Hukum",
+      "social_url": "https://instagram.com/aisyaturridha_",
+      "is_officer": true,
+      "officer_role": "Seksi Keamanan",
+      "display_order": 3,
+      "is_visible": true
+    },
+    {
+      "id": "m-4",
+      "full_name": "ALIFAH HUSNA",
+      "nickname": "Alifah",
+      "photo_url": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Gambut, 12 Januari 2007",
+      "motto": "Jadilah penerang di mana pun berada.",
+      "memory_message": "Bersama XII Social, masa SMA jadi tak terlupakan.",
+      "hobby": "Memasak & Musik",
+      "dream": "Apoteker",
+      "social_url": "https://instagram.com/alifahusna",
+      "is_officer": false,
+      "display_order": 4,
+      "is_visible": true
+    },
+    {
+      "id": "m-5",
+      "full_name": "ANITA ZAHRA",
+      "nickname": "Anita",
+      "photo_url": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Martapura, 03 Februari 2007",
+      "motto": "Hidup penuh warna saat kita menghargai setiap momen.",
+      "memory_message": "Terima kasih telah menjadi rumah kedua untukku.",
+      "hobby": "Menggambar & Badminton",
+      "dream": "Arsitek / Interior Designer",
+      "social_url": "https://instagram.com/anitazahra",
+      "is_officer": false,
+      "display_order": 5,
+      "is_visible": true
+    },
+    {
+      "id": "m-6",
+      "full_name": "ARNITA NUR ZAHRA",
+      "nickname": "Arnita",
+      "photo_url": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Banjar, 18 Juli 2007",
+      "motto": "Belajar dari masa lalu, berjuang untuk masa depan.",
+      "memory_message": "Masa-masa ujian dan tugas kelompok membuat kita makin solid!",
+      "hobby": "Membaca Novel",
+      "dream": "Psikolog",
+      "social_url": "https://instagram.com/arnitanur",
+      "is_officer": false,
+      "display_order": 6,
+      "is_visible": true
+    },
+    {
+      "id": "m-7",
+      "full_name": "AZIZAH",
+      "nickname": "Azizah",
+      "photo_url": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Kertak Hanyar, 25 November 2006",
+      "motto": "Kesederhanaan adalah puncak keindahan.",
+      "memory_message": "Suasana kelas yang ramai selalu kurindukan kelak.",
+      "hobby": "Menjahit & Seni Kain",
+      "dream": "Fashion Designer",
+      "social_url": "https://instagram.com/azizah_social",
+      "is_officer": false,
+      "display_order": 7,
+      "is_visible": true
+    },
+    {
+      "id": "m-8",
+      "full_name": "FAHMI ADRIAN",
+      "nickname": "Fahmi",
+      "photo_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Banjar, 05 April 2007",
+      "motto": "Pantang menyerah sebelum garis finish.",
+      "memory_message": "Main futsal bareng dan ngerjain tugas kelas XII adalah momen terbaik!",
+      "hobby": "Futsal & Gaming",
+      "dream": "Software Engineer / Entrepreneur",
+      "social_url": "https://instagram.com/fahmi_adrian",
+      "is_officer": false,
+      "display_order": 8,
+      "is_visible": true
+    },
+    {
+      "id": "m-9",
+      "full_name": "FATIA ZAHWA ALYA",
+      "nickname": "Fatia",
+      "photo_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Martapura, 12 September 2007",
+      "motto": "Setiap impian layak diperjuangkan dengan ikhlas.",
+      "memory_message": "XII Social selalu ada tawa dan kehangatan.",
+      "hobby": "Fotografi & Traveling",
+      "dream": "Diplomat / Hubungan Internasional",
+      "social_url": "https://instagram.com/fatia_zahwa",
+      "is_officer": false,
+      "display_order": 9,
+      "is_visible": true
+    },
+    {
+      "id": "m-10",
+      "full_name": "INDAH SRI RAHAYU",
+      "nickname": "Indah",
+      "photo_url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Gambut, 28 Desember 2006",
+      "motto": "Kebaikan akan selalu menemukan jalannya.",
+      "memory_message": "Teman-teman XII Social luar biasa hebatnya!",
+      "hobby": "Mendengar Musik & Tari",
+      "dream": "Guru Bahasa / Sastrawan",
+      "social_url": "https://instagram.com/indah_sri",
+      "is_officer": false,
+      "display_order": 10,
+      "is_visible": true
+    },
+    {
+      "id": "m-11",
+      "full_name": "ISNAWATI",
+      "nickname": "Isna",
+      "photo_url": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Banjar, 11 Juni 2007",
+      "motto": "Kepemimpinan adalah pelayanan dan kebersamaan.",
+      "memory_message": "Mendampingi Alfianor mengurus kelas XII Social adalah kehormatan luar biasa.",
+      "hobby": "Organisasi & Menulis",
+      "dream": "Manajer / Pengusaha",
+      "social_url": "https://instagram.com/isnawati_",
+      "is_officer": true,
+      "officer_role": "Wakil Ketua Kelas",
+      "display_order": 11,
+      "is_visible": true
+    },
+    {
+      "id": "m-12",
+      "full_name": "M. ALFIANOR",
+      "nickname": "Alfianor",
+      "photo_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Martapura, 01 Januari 2007",
+      "motto": "Pemimpin hebat melahirkan banyak sahabat.",
+      "memory_message": "Bangga bisa jadi Ketua Kelas XII Social MAN 3 Banjar! Kalian skuad terbaik!",
+      "hobby": "Kepemimpinan & Olahraga",
+      "dream": "Sipil / Pemimpin Negeri",
+      "social_url": "https://instagram.com/m.alfianor",
+      "is_officer": true,
+      "officer_role": "Ketua Kelas",
+      "display_order": 12,
+      "is_visible": true
+    },
+    {
+      "id": "m-13",
+      "full_name": "M. FAUZAN RAHMAN",
+      "nickname": "Fauzan",
+      "photo_url": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Banjar, 17 Agustus 2006",
+      "motto": "Keberanian tanpa keraguan.",
+      "memory_message": "Bekerja sama menjaga keamanan kelas, kelas tetap kondusif dan asyik!",
+      "hobby": "Bela Diri & Basket",
+      "dream": "TNI / Polisi",
+      "social_url": "https://instagram.com/fauzan_rahman",
+      "is_officer": true,
+      "officer_role": "Seksi Keamanan",
+      "display_order": 13,
+      "is_visible": true
+    },
+    {
+      "id": "m-14",
+      "full_name": "MADINA",
+      "nickname": "Madina",
+      "photo_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Kertak Hanyar, 09 Maret 2007",
+      "motto": "Kebersihan adalah sebagian dari iman dan kenyamanan.",
+      "memory_message": "Piket kelas bareng adalah momen berharga penuh canda tawa.",
+      "hobby": "Berkebun & Menata Ruang",
+      "dream": "Desainer Lingkungan",
+      "social_url": "https://instagram.com/madina_social",
+      "is_officer": true,
+      "officer_role": "Seksi Kebersihan",
+      "display_order": 14,
+      "is_visible": true
+    },
+    {
+      "id": "m-15",
+      "full_name": "MAULIDA",
+      "nickname": "Maulida",
+      "photo_url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Gambut, 19 November 2006",
+      "motto": "Tetap tenang dan tebarkan senyuman.",
+      "memory_message": "XII Social memberikan kenangan paling hangat selama sekolah.",
+      "hobby": "Menyanyi & Krafing",
+      "dream": "Dokter / Tenaga Medis",
+      "social_url": "https://instagram.com/maulida_m",
+      "is_officer": false,
+      "display_order": 15,
+      "is_visible": true
+    },
+    {
+      "id": "m-16",
+      "full_name": "MONESA JAHRA",
+      "nickname": "Monesa",
+      "photo_url": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Banjar, 22 April 2007",
+      "motto": "Satu rupiah pun harus dipertanggungjawabkan.",
+      "memory_message": "Tagih uang kas kelas XII Social butuh perjuangan & kesabaran ekstra!",
+      "hobby": "Akuntansi & Bisnis",
+      "dream": "Akuntan Publik / Banker",
+      "social_url": "https://instagram.com/monesa_jahra",
+      "is_officer": true,
+      "officer_role": "Bendahara 1",
+      "display_order": 16,
+      "is_visible": true
+    },
+    {
+      "id": "m-17",
+      "full_name": "MUHAMMAD IQBAL",
+      "nickname": "Iqbal",
+      "photo_url": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Martapura, 30 Oktober 2006",
+      "motto": "Ilmu tanpa keimanan bagaikan lentera tanpa cahaya.",
+      "memory_message": "Momen membaca doa dan ceramah di kelas selalu menguatkan.",
+      "hobby": "Khat & Tilawah",
+      "dream": "Cendekiawan Muslim",
+      "social_url": "https://instagram.com/m_iqbal_banjar",
+      "is_officer": true,
+      "officer_role": "Seksi Keagamaan",
+      "display_order": 17,
+      "is_visible": true
+    },
+    {
+      "id": "m-18",
+      "full_name": "MUHAMMAD NIZAR",
+      "nickname": "Nizar",
+      "photo_url": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Banjar, 14 September 2006",
+      "motto": "Berpikir kritis, bertindak bijaksana.",
+      "memory_message": "Diskusi Sosiologi & Ekonomi di XII Social selalu seru.",
+      "hobby": "Catur & Debat",
+      "dream": "Analis Ekonomi / Peneliti",
+      "social_url": "https://instagram.com/nizar_m",
+      "is_officer": false,
+      "display_order": 18,
+      "is_visible": true
+    },
+    {
+      "id": "m-19",
+      "full_name": "NAILA MAHFUZDA",
+      "nickname": "Naila",
+      "photo_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Kertak Hanyar, 04 Juli 2007",
+      "motto": "Kebahagiaan sejati ada pada ketulusan.",
+      "memory_message": "XII Social membuat masa remaja penuh kenangan berharga.",
+      "hobby": "Melukis Digital",
+      "dream": "Ilustrator / Animator",
+      "social_url": "https://instagram.com/naila_mahfuzda",
+      "is_officer": false,
+      "display_order": 19,
+      "is_visible": true
+    },
+    {
+      "id": "m-20",
+      "full_name": "NAUFA NOR AZHORA",
+      "nickname": "Naufa",
+      "photo_url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Gambut, 21 Mei 2007",
+      "motto": "Rapi dalam catatan, tertata dalam impian.",
+      "memory_message": "Mencatat notulen dan mengurus administrasi kelas XII Social!",
+      "hobby": "Menulis & Kaligrafi",
+      "dream": "Arsiparis / Penulis",
+      "social_url": "https://instagram.com/naufa_azhora",
+      "is_officer": true,
+      "officer_role": "Sekretaris 2",
+      "display_order": 20,
+      "is_visible": true
+    },
+    {
+      "id": "m-21",
+      "full_name": "NOOR ALMIRA LAILA",
+      "nickname": "Almira",
+      "photo_url": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Martapura, 15 Maret 2007",
+      "motto": "Catatan hari ini adalah sejarah esok hari.",
+      "memory_message": "Gembira bisa menjadi Sekretaris 1 di kelas yang luar biasa ini.",
+      "hobby": "Public Speaking & Public Relations",
+      "dream": "Public Relations / Presenter",
+      "social_url": "https://instagram.com/almira_laila",
+      "is_officer": true,
+      "officer_role": "Sekretaris 1",
+      "display_order": 21,
+      "is_visible": true
+    },
+    {
+      "id": "m-22",
+      "full_name": "NOR ASSYIFA",
+      "nickname": "Syifa",
+      "photo_url": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Banjar, 08 Agustus 2007",
+      "motto": "Obat dari rasa lelah adalah rasa syukur.",
+      "memory_message": "Terima kasih teman-teman untuk semua tawa dan air mata.",
+      "hobby": "Kuliner & Sketsa",
+      "dream": "Nutrisionis",
+      "social_url": "https://instagram.com/nor_assyifa",
+      "is_officer": false,
+      "display_order": 22,
+      "is_visible": true
+    },
+    {
+      "id": "m-23",
+      "full_name": "NUR AZIZAH",
+      "nickname": "Azizah",
+      "photo_url": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Gambut, 16 November 2006",
+      "motto": "Persiapan yang matang menghasilkan karya gemilang.",
+      "memory_message": "Siapin perlengkapan acara kelas sampai larut adalah momen berharga.",
+      "hobby": "Fotografi Event",
+      "dream": "Event Organizer Director",
+      "social_url": "https://instagram.com/nur_azizah_b",
+      "is_officer": true,
+      "officer_role": "Seksi Perlengkapan",
+      "display_order": 23,
+      "is_visible": true
+    },
+    {
+      "id": "m-24",
+      "full_name": "NURRIPA SABILA",
+      "nickname": "Ripa",
+      "photo_url": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Banjar, 29 Januari 2007",
+      "motto": "Bekerja keras dalam diam, biarkan sukses bersuara.",
+      "memory_message": "XII Social mengajarkan arti kekeluargaan yang sejati.",
+      "hobby": "Membaca Komik & Sepeda",
+      "dream": "Dosen / Peneliti Sosial",
+      "social_url": "https://instagram.com/nurripasabila",
+      "is_officer": false,
+      "display_order": 24,
+      "is_visible": true
+    },
+    {
+      "id": "m-25",
+      "full_name": "RAISYA SABILA",
+      "nickname": "Raisya",
+      "photo_url": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Martapura, 02 Oktober 2006",
+      "motto": "Kelengkapan dan kerapian awal kejayaan.",
+      "memory_message": "Urus alat dan kebutuhan kelas bareng Azizah, seru dan melatih tanggung jawab.",
+      "hobby": "Handicraft & Dekorasi",
+      "dream": "Manajer Logistik",
+      "social_url": "https://instagram.com/raisya_sabila",
+      "is_officer": true,
+      "officer_role": "Seksi Perlengkapan",
+      "display_order": 25,
+      "is_visible": true
+    },
+    {
+      "id": "m-26",
+      "full_name": "RIANTI DWI ANGGITA",
+      "nickname": "Rianti",
+      "photo_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Kertak Hanyar, 13 Desember 2006",
+      "motto": "Lingkungan yang bersih menciptakan pikiran yang jernih.",
+      "memory_message": "Kebersihan kelas XII Social selalu jadi kebanggaan kita bersama.",
+      "hobby": "Daur Ulang & Tanaman",
+      "dream": "Aktivis Lingkungan / Sains",
+      "social_url": "https://instagram.com/rianti_dwi",
+      "is_officer": true,
+      "officer_role": "Seksi Kebersihan",
+      "display_order": 26,
+      "is_visible": true
+    },
+    {
+      "id": "m-27",
+      "full_name": "SHAYESHA SHABRINA SHARON",
+      "nickname": "Shayesha",
+      "photo_url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Banjar, 24 Mei 2007",
+      "motto": "Ekspresikan dirimu dengan percaya diri.",
+      "memory_message": "Pertunjukan seni dan kebersamaan XII Social akan selalu kuingat.",
+      "hobby": "Tari Modern & Modeling",
+      "dream": "Seniman / Content Creator",
+      "social_url": "https://instagram.com/shayesha_sharon",
+      "is_officer": false,
+      "display_order": 27,
+      "is_visible": true
+    },
+    {
+      "id": "m-28",
+      "full_name": "SHERA AZZAHRA",
+      "nickname": "Shera",
+      "photo_url": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Gambut, 07 September 2007",
+      "motto": "Ketelitian membawa kejujuran.",
+      "memory_message": "Mencatat laporan keuangan kelas bareng Monesa bikin kita makin kompak.",
+      "hobby": "Menghitung & Membaca",
+      "dream": "Manager Keuangan",
+      "social_url": "https://instagram.com/shera_azzahra",
+      "is_officer": true,
+      "officer_role": "Bendahara 2",
+      "display_order": 28,
+      "is_visible": true
+    },
+    {
+      "id": "m-29",
+      "full_name": "UMARUL AL-FAJRI",
+      "nickname": "Umar",
+      "photo_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Martapura, 19 Oktober 2006",
+      "motto": "Fajar baru membawa harapan baru.",
+      "memory_message": "Nongkrong sehabis sekolah bareng anak-anak XII Social ga ada tandingannya!",
+      "hobby": "Otomotif & Fotografi",
+      "dream": "Teknik Otomotif / Enjinir",
+      "social_url": "https://instagram.com/umarul_fajri",
+      "is_officer": false,
+      "display_order": 29,
+      "is_visible": true
+    },
+    {
+      "id": "m-30",
+      "full_name": "ZASKIA",
+      "nickname": "Zaskia",
+      "photo_url": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&q=80&w=600",
+      "birth_information": "Banjar, 11 Maret 2007",
+      "motto": "Tetap rendah hati di saat meraih kesuksesan.",
+      "memory_message": "Masa SMA di MAN 3 Banjar bersama XII Social adalah kenangan terbaik dalam hidupku.",
+      "hobby": "Mendengar Podcast & Merajut",
+      "dream": "Pengusaha Sukses",
+      "social_url": "https://instagram.com/zaskia_social",
+      "is_officer": false,
+      "display_order": 30,
+      "is_visible": true
+    }
+  ],
+  "roles": [
+    {
+      "id": "r-1",
+      "role_name": "Wali Kelas",
+      "role_group": "WALI_KELAS",
+      "description": "Pembimbing dan pengarah utama kelas XII Social",
+      "display_order": 1,
+      "is_visible": true,
+      "assigned_teacher_id": "t-1"
+    },
+    {
+      "id": "r-2",
+      "role_name": "Ketua Kelas",
+      "role_group": "INTI",
+      "description": "Pemimpin dan koordinator seluruh kegiatan kelas",
+      "display_order": 2,
+      "is_visible": true,
+      "assigned_member_ids": [
+        "m-12"
+      ]
+    },
+    {
+      "id": "r-3",
+      "role_name": "Wakil Ketua Kelas",
+      "role_group": "INTI",
+      "description": "Pendamping ketua kelas dan pengatur internal",
+      "display_order": 3,
+      "is_visible": true,
+      "assigned_member_ids": [
+        "m-11"
+      ]
+    },
+    {
+      "id": "r-4",
+      "role_name": "Bendahara",
+      "role_group": "INTI",
+      "description": "Pengelola kas dan anggaran keuangan XII Social",
+      "display_order": 4,
+      "is_visible": true,
+      "assigned_member_ids": [
+        "m-16",
+        "m-28"
+      ]
+    },
+    {
+      "id": "r-5",
+      "role_name": "Sekretaris",
+      "role_group": "INTI",
+      "description": "Pengurus administrasi, dokumen, dan notulensi kelas",
+      "display_order": 5,
+      "is_visible": true,
+      "assigned_member_ids": [
+        "m-21",
+        "m-20"
+      ]
+    },
+    {
+      "id": "r-6",
+      "role_name": "Seksi Perlengkapan",
+      "role_group": "SEKSI",
+      "description": "Penanggung jawab fasilitas, peralatan, dan logistik acara",
+      "display_order": 6,
+      "is_visible": true,
+      "assigned_member_ids": [
+        "m-25",
+        "m-23"
+      ]
+    },
+    {
+      "id": "r-7",
+      "role_name": "Seksi Keamanan",
+      "role_group": "SEKSI",
+      "description": "Penjaga kedisiplinan dan kondusifitas kelas",
+      "display_order": 7,
+      "is_visible": true,
+      "assigned_member_ids": [
+        "m-13",
+        "m-3"
+      ]
+    },
+    {
+      "id": "r-8",
+      "role_name": "Seksi Keagamaan",
+      "role_group": "SEKSI",
+      "description": "Koordinator kegiatan ibadah, doa bersama, dan pembinaan spiritual",
+      "display_order": 8,
+      "is_visible": true,
+      "assigned_member_ids": [
+        "m-17",
+        "m-1"
+      ]
+    },
+    {
+      "id": "r-9",
+      "role_name": "Seksi Kebersihan",
+      "role_group": "SEKSI",
+      "description": "Penanggung jawab kebersihan, kerapian, dan pikat harian kelas",
+      "display_order": 9,
+      "is_visible": true,
+      "assigned_member_ids": [
+        "m-26",
+        "m-14"
+      ]
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb-1",
+      "title": "Semua Kenangan",
+      "slug": "semua-kenangan",
+      "description": "Kumpulan momen acak dan kebersamaan sepanjang masa sekolah",
+      "cover_image_url": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&q=80&w=800",
+      "display_order": 1,
+      "is_visible": true
+    },
+    {
+      "id": "alb-2",
+      "title": "Kegiatan Kelas",
+      "slug": "kegiatan-kelas",
+      "description": "Momen belajar, kerja kelompok, presentasi, dan kehebohan ruang kelas",
+      "cover_image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800",
+      "display_order": 2,
+      "is_visible": true
+    },
+    {
+      "id": "alb-3",
+      "title": "Bersama Wali Kelas",
+      "slug": "bersama-wali-kelas",
+      "description": "Potret hangat kebersamaan dengan Ibu Perdini Adma Sari, S.Pd",
+      "cover_image_url": "https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&q=80&w=800",
+      "display_order": 3,
+      "is_visible": true
+    },
+    {
+      "id": "alb-4",
+      "title": "Acara Sekolah",
+      "slug": "acara-sekolah",
+      "description": "Peringatan hari besar, classmeeting, dan kegiatan di MAN 3 Banjar",
+      "cover_image_url": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&q=80&w=800",
+      "display_order": 4,
+      "is_visible": true
+    },
+    {
+      "id": "alb-5",
+      "title": "Foto Santai",
+      "slug": "foto-santai",
+      "description": "Nongkrong, canda tawa sehabis jam pelajaran, dan momen spontan",
+      "cover_image_url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&q=80&w=800",
+      "display_order": 5,
+      "is_visible": true
+    },
+    {
+      "id": "alb-6",
+      "title": "Perpisahan",
+      "slug": "perpisahan",
+      "description": "Momen haru pelepasan dan janji untuk tetap saling mengingat",
+      "cover_image_url": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?auto=format&fit=crop&q=80&w=800",
+      "display_order": 6,
+      "is_visible": true
+    }
+  ],
+  "gallery_items": [
+    {
+      "id": "g-1",
+      "album_id": "alb-2",
+      "media_type": "IMAGE",
+      "file_url": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&q=80&w=1200",
+      "thumbnail_url": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&q=80&w=400",
+      "title": "Kebersamaan di Meja Kelas",
+      "description": "Diskusi kelompok penuh tawa menjelang ujian Sosiologi.",
+      "photo_date": "2025-11-14",
+      "location": "Ruang Kelas XII Social, MAN 3 Banjar",
+      "people_tags": [
+        "M. Alfianor",
+        "Isnawati",
+        "Noor Almira Laila",
+        "Fahmi Adrian"
+      ],
+      "alt_text": "Foto kebersamaan siswa di ruang kelas",
+      "display_order": 1,
+      "is_featured": true,
+      "allow_download": true,
+      "is_visible": true
+    },
+    {
+      "id": "g-2",
+      "album_id": "alb-3",
+      "media_type": "IMAGE",
+      "file_url": "https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&q=80&w=1200",
+      "thumbnail_url": "https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&q=80&w=400",
+      "title": "Kehangatan Bersama Ibu Perdini",
+      "description": "Syukuran ulang tahun kelas bersama Wali Kelas tercinta.",
+      "photo_date": "2025-10-20",
+      "location": "MAN 3 Banjar",
+      "people_tags": [
+        "Perdini Adma Sari, S.Pd",
+        "Semua Anggota XII Social"
+      ],
+      "alt_text": "Foto bersama wali kelas dan siswa",
+      "display_order": 2,
+      "is_featured": true,
+      "allow_download": true,
+      "is_visible": true
+    },
+    {
+      "id": "g-3",
+      "album_id": "alb-4",
+      "media_type": "IMAGE",
+      "file_url": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&q=80&w=1200",
+      "thumbnail_url": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&q=80&w=400",
+      "title": "Juara Classmeeting Futsal & Suporter Meriah",
+      "description": "Dukungan penuh semangat dari tribun untuk tim XII Social.",
+      "photo_date": "2025-12-18",
+      "location": "Lapangan Utama MAN 3 Banjar",
+      "people_tags": [
+        "M. Fauzan Rahman",
+        "Umarul Al-Fajri",
+        "Aisyaturridha"
+      ],
+      "alt_text": "Kemeriahan suporter kelas di lapangan",
+      "display_order": 3,
+      "is_featured": true,
+      "allow_download": true,
+      "is_visible": true
+    },
+    {
+      "id": "g-4",
+      "album_id": "alb-5",
+      "media_type": "IMAGE",
+      "file_url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&q=80&w=1200",
+      "thumbnail_url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&q=80&w=400",
+      "title": "Senja di Kantin Sekolah",
+      "description": "Cerita ringan dan es teh manis setelah jam pelajaran selesai.",
+      "photo_date": "2026-01-15",
+      "location": "Kantin MAN 3 Banjar",
+      "people_tags": [
+        "Monesa Jahra",
+        "Shera Azzahra",
+        "Naufa Nor Azhora"
+      ],
+      "alt_text": "Anak-anak santai di kantin sekolah",
+      "display_order": 4,
+      "is_featured": false,
+      "allow_download": true,
+      "is_visible": true
+    },
+    {
+      "id": "g-5",
+      "album_id": "alb-6",
+      "media_type": "IMAGE",
+      "file_url": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?auto=format&fit=crop&q=80&w=1200",
+      "thumbnail_url": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?auto=format&fit=crop&q=80&w=400",
+      "title": "Sesi Buku Kenangan Angkatan",
+      "description": "Penulisan pesan dan kesan persahabatan yang abadi.",
+      "photo_date": "2026-03-10",
+      "location": "Aula MAN 3 Banjar",
+      "people_tags": [
+        "Seluruh Siswa XII Social"
+      ],
+      "alt_text": "Sesi foto angkatan buku kenangan",
+      "display_order": 5,
+      "is_featured": true,
+      "allow_download": true,
+      "is_visible": true
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": "bg-pembukaan",
+      "section_key": "pembukaan",
+      "file_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1920",
+      "mode": "parallax",
+      "position_x": 50,
+      "position_y": 50,
+      "mobile_position_x": 50,
+      "mobile_position_y": 50,
+      "scale": 1,
+      "blur": 2,
+      "brightness": 0.6,
+      "contrast": 1.1,
+      "saturation": 0.8,
+      "overlay_color": "rgba(0, 8, 10, 0.65)",
+      "overlay_opacity": 0.65,
+      "is_visible": true
+    },
+    {
+      "id": "bg-struktur",
+      "section_key": "struktur",
+      "file_url": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?auto=format&fit=crop&q=80&w=1920",
+      "mode": "overlay",
+      "position_x": 50,
+      "position_y": 50,
+      "mobile_position_x": 50,
+      "mobile_position_y": 50,
+      "scale": 1,
+      "blur": 4,
+      "brightness": 0.5,
+      "contrast": 1,
+      "saturation": 0.7,
+      "overlay_color": "rgba(5, 7, 7, 0.8)",
+      "overlay_opacity": 0.8,
+      "is_visible": true
+    },
+    {
+      "id": "bg-anggota",
+      "section_key": "anggota",
+      "file_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&q=80&w=1920",
+      "mode": "parallax",
+      "position_x": 50,
+      "position_y": 50,
+      "mobile_position_x": 50,
+      "mobile_position_y": 50,
+      "scale": 1,
+      "blur": 3,
+      "brightness": 0.5,
+      "contrast": 1,
+      "saturation": 0.8,
+      "overlay_color": "rgba(0, 8, 10, 0.75)",
+      "overlay_opacity": 0.75,
+      "is_visible": true
+    },
+    {
+      "id": "bg-foto",
+      "section_key": "foto",
+      "file_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&q=80&w=1920",
+      "mode": "3d_plane",
+      "position_x": 50,
+      "position_y": 50,
+      "mobile_position_x": 50,
+      "mobile_position_y": 50,
+      "scale": 1,
+      "blur": 1,
+      "brightness": 0.5,
+      "contrast": 1.1,
+      "saturation": 0.9,
+      "overlay_color": "rgba(5, 7, 7, 0.7)",
+      "overlay_opacity": 0.7,
+      "is_visible": true
+    },
+    {
+      "id": "bg-penutup",
+      "section_key": "penutup",
+      "file_url": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&q=80&w=1920",
+      "mode": "blur",
+      "position_x": 50,
+      "position_y": 50,
+      "mobile_position_x": 50,
+      "mobile_position_y": 50,
+      "scale": 1,
+      "blur": 6,
+      "brightness": 0.4,
+      "contrast": 1,
+      "saturation": 0.6,
+      "overlay_color": "rgba(0, 8, 10, 0.85)",
+      "overlay_opacity": 0.85,
+      "is_visible": true
+    }
+  ],
+  "scene_settings": [
+    {
+      "id": "scene-pembukaan",
+      "section_key": "pembukaan",
+      "preset": "MEMORY_ORBIT",
+      "is_enabled": true,
+      "quality": "HIGH",
+      "particle_settings": {
+        "count": 2200,
+        "speed": 0.25,
+        "size": 0.04,
+        "opacity": 0.85,
+        "color": "#DDFEFF"
+      },
+      "light_settings": {
+        "emissive_intensity": 1.8,
+        "bloom_intensity": 1.2,
+        "orbital_lines_count": 5,
+        "line_thickness": 0.02
+      },
+      "camera_settings": {
+        "speed": 0.8,
+        "parallax_intensity": 1.2,
+        "logo_rotation_speed": 0.3
+      },
+      "fog_settings": {
+        "color": "#050707",
+        "density": 0.015
+      },
+      "mobile_fallback": false
+    },
+    {
+      "id": "scene-struktur",
+      "section_key": "struktur",
+      "preset": "CONSTELLATION_STRUCTURE",
+      "is_enabled": true,
+      "quality": "HIGH",
+      "particle_settings": {
+        "count": 1500,
+        "speed": 0.15,
+        "size": 0.035,
+        "opacity": 0.75,
+        "color": "#7EDDE3"
+      },
+      "light_settings": {
+        "emissive_intensity": 1.4,
+        "bloom_intensity": 1,
+        "orbital_lines_count": 4,
+        "line_thickness": 0.015
+      },
+      "camera_settings": {
+        "speed": 0.7,
+        "parallax_intensity": 1,
+        "logo_rotation_speed": 0.2
+      },
+      "fog_settings": {
+        "color": "#050707",
+        "density": 0.02
+      },
+      "mobile_fallback": false
+    },
+    {
+      "id": "scene-anggota",
+      "section_key": "anggota",
+      "preset": "FLOATING_ARCHIVE",
+      "is_enabled": true,
+      "quality": "HIGH",
+      "particle_settings": {
+        "count": 1800,
+        "speed": 0.2,
+        "size": 0.03,
+        "opacity": 0.8,
+        "color": "#E0FFFF"
+      },
+      "light_settings": {
+        "emissive_intensity": 1.5,
+        "bloom_intensity": 1.1,
+        "orbital_lines_count": 6,
+        "line_thickness": 0.018
+      },
+      "camera_settings": {
+        "speed": 0.8,
+        "parallax_intensity": 1,
+        "logo_rotation_speed": 0.25
+      },
+      "fog_settings": {
+        "color": "#050707",
+        "density": 0.018
+      },
+      "mobile_fallback": false
+    },
+    {
+      "id": "scene-foto",
+      "section_key": "foto",
+      "preset": "PHOTO_WORMHOLE",
+      "is_enabled": true,
+      "quality": "HIGH",
+      "particle_settings": {
+        "count": 2500,
+        "speed": 0.35,
+        "size": 0.045,
+        "opacity": 0.9,
+        "color": "#BEEFF4"
+      },
+      "light_settings": {
+        "emissive_intensity": 2,
+        "bloom_intensity": 1.4,
+        "orbital_lines_count": 8,
+        "line_thickness": 0.025
+      },
+      "camera_settings": {
+        "speed": 1,
+        "parallax_intensity": 1.5,
+        "logo_rotation_speed": 0.4
+      },
+      "fog_settings": {
+        "color": "#050707",
+        "density": 0.012
+      },
+      "mobile_fallback": false
+    },
+    {
+      "id": "scene-penutup",
+      "section_key": "penutup",
+      "preset": "DIGITAL_STARFIELD",
+      "is_enabled": true,
+      "quality": "HIGH",
+      "particle_settings": {
+        "count": 3000,
+        "speed": 0.1,
+        "size": 0.03,
+        "opacity": 0.7,
+        "color": "#D1FAFC"
+      },
+      "light_settings": {
+        "emissive_intensity": 1.2,
+        "bloom_intensity": 0.9,
+        "orbital_lines_count": 3,
+        "line_thickness": 0.012
+      },
+      "camera_settings": {
+        "speed": 0.5,
+        "parallax_intensity": 0.8,
+        "logo_rotation_speed": 0.15
+      },
+      "fog_settings": {
+        "color": "#050707",
+        "density": 0.025
+      },
+      "mobile_fallback": false
+    }
+  ],
+  "ngl_messages": [
+    {
+      "id": "ngl-1",
+      "recipient_id": "CLASS",
+      "recipient_name": "Seluruh XII Social",
+      "message": "Semoga alumni XII Social MAN 3 Banjar lulus 100% dengan nilai terbaik & sukses di PTN maupun impian masing-masing! 🌟",
+      "sticker_tag": "appreciation",
+      "reply": "Aamiin Ya Rabbal Alamin! Terima kasih doa dan kenangannya kawan-kawan! ❤️",
+      "reply_at": "2026-10-25T16:55:38.335Z",
+      "likes_count": 24,
+      "is_visible": true,
+      "created_at": "2026-10-23T16:55:38.336Z"
+    },
+    {
+      "id": "ngl-2",
+      "recipient_id": "CLASS",
+      "recipient_name": "Seluruh XII Social",
+      "message": "Siapa nih yang dulu paling sering minjem pulpen di kelas tapi gak pernah dikembaliin? 🤣🤣",
+      "sticker_tag": "funny",
+      "reply": "Sssttt... rahasia umum kelas tuh! 😜",
+      "reply_at": "2026-10-25T16:55:38.336Z",
+      "likes_count": 18,
+      "is_visible": true,
+      "created_at": "2026-10-24T16:55:38.336Z"
+    },
+    {
+      "id": "ngl-3",
+      "recipient_id": "CLASS",
+      "recipient_name": "Seluruh XII Social",
+      "message": "Bakal kangen banget momen bercanda bareng pas jam kosong dan acara kebersamaan kelas kita 🥺❤️",
+      "sticker_tag": "confession",
+      "likes_count": 31,
+      "is_visible": true,
+      "created_at": "2026-10-25T11:55:38.336Z"
+    }
+  ],
+  "activity_logs": [
+    {
+      "id": "log-1",
+      "admin_id": "admin",
+      "action": "INIT_SYSTEM",
+      "entity_type": "SYSTEM",
+      "entity_id": "1",
+      "metadata": "Database seeded with default XII SOCIAL MAN 3 Banjar data",
+      "created_at": "2026-10-25T16:55:38.336Z"
+    }
+  ],
+  "admin_auth": {
+    "username": "admin",
+    "password_hash": "$2b$10$fHBPGCOwtmPaMFURBgqz5evdicpqAps46Mcb0NfudxtiTGZBYP1a2",
+    "must_change_password": true,
+    "updated_at": "2026-10-25T16:55:38.336Z"
+  },
+  "version": 1
+}

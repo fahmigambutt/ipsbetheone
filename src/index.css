@@ -1,0 +1,155 @@
+@import "tailwindcss";
+
+html.light {
+  color-scheme: light;
+}
+
+html.light body {
+  background-color: #f8fafc !important;
+  color: #0f172a !important;
+}
+
+/* Global Light Mode Overrides for cards, containers, backgrounds & text */
+html.light .bg-black,
+html.light .bg-black\/20,
+html.light .bg-black\/30,
+html.light .bg-black\/40,
+html.light .bg-black\/50,
+html.light .bg-black\/60,
+html.light .bg-black\/70,
+html.light .bg-black\/80,
+html.light .bg-black\/90,
+html.light .bg-\[\#050707\],
+html.light .bg-\[\#181818\],
+html.light .bg-\[\#121212\],
+html.light .bg-\[\#0d0d0d\],
+html.light .bg-neutral-900,
+html.light .bg-neutral-950 {
+  background-color: rgba(255, 255, 255, 0.92) !important;
+  color: #0f172a !important;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08) !important;
+}
+
+html.light .bg-\[\#000000\] {
+  background-color: #f1f5f9 !important;
+}
+
+/* Light mode gradient cards */
+html.light .from-\[\#181818\],
+html.light .to-black {
+  --tw-gradient-from: #ffffff !important;
+  --tw-gradient-to: #f1f5f9 !important;
+  color: #0f172a !important;
+}
+
+/* Modal backdrops */
+html.light .fixed.inset-0.bg-black\/80,
+html.light .fixed.inset-0.bg-black\/90,
+html.light .fixed.inset-0.bg-black\/70 {
+  background-color: rgba(15, 23, 42, 0.6) !important;
+}
+
+/* Typography contrast in light mode */
+html.light .text-white,
+html.light .text-gray-100,
+html.light .text-slate-100 {
+  color: #0f172a !important;
+}
+
+html.light .text-gray-200,
+html.light .text-gray-300,
+html.light .text-gray-400 {
+  color: #334155 !important;
+}
+
+html.light .text-gray-500 {
+  color: #64748b !important;
+}
+
+/* Borders in light mode */
+html.light .border-white\/5,
+html.light .border-white\/10,
+html.light .border-white\/15,
+html.light .border-white\/20,
+html.light .border-white\/30,
+html.light .border-white\/40 {
+  border-color: rgba(0, 0, 0, 0.12) !important;
+}
+
+/* Inputs, Textareas & Selects in light mode */
+html.light textarea,
+html.light input[type="text"],
+html.light input[type="search"],
+html.light select {
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+  border-color: rgba(0, 0, 0, 0.2) !important;
+}
+
+html.light textarea::placeholder,
+html.light input::placeholder {
+  color: #94a3b8 !important;
+}
+
+/* Subtle background fills */
+html.light .bg-white\/5,
+html.light .bg-white\/10,
+html.light .bg-white\/15,
+html.light .bg-white\/20 {
+  background-color: rgba(0, 0, 0, 0.05) !important;
+}
+
+html.light .hover\:bg-white\/10:hover,
+html.light .hover\:bg-white\/15:hover,
+html.light .hover\:bg-white\/20:hover {
+  background-color: rgba(0, 0, 0, 0.08) !important;
+}
+
+/* Preserve red accent color contrast */
+html.light .text-\[\#E50914\],
+html.light .text-red-500 {
+  color: #dc2626 !important;
+}
+
+html.light .bg-\[\#E50914\] {
+  background-color: #e50914 !important;
+  color: #ffffff !important;
+}
+
+/* NGL Sparkle & Floating Particle Animations */
+@keyframes floatParticle {
+  0% {
+    transform: translateY(0px) translateX(0px) scale(0.8) rotate(0deg);
+    opacity: 0.2;
+  }
+  50% {
+    transform: translateY(-25px) translateX(12px) scale(1.2) rotate(180deg);
+    opacity: 0.9;
+  }
+  100% {
+    transform: translateY(-50px) translateX(-10px) scale(0.8) rotate(360deg);
+    opacity: 0.1;
+  }
+}
+
+@keyframes sparkleGlow {
+  0%, 100% {
+    transform: scale(1) rotate(0deg);
+    filter: drop-shadow(0 0 4px rgba(229, 9, 20, 0.6));
+    opacity: 0.8;
+  }
+  50% {
+    transform: scale(1.3) rotate(20deg);
+    filter: drop-shadow(0 0 12px rgba(251, 146, 60, 0.9));
+    opacity: 1;
+  }
+}
+
+.animate-float-particle {
+  animation: floatParticle 6s ease-in-out infinite alternate;
+}
+
+.animate-sparkle-glow {
+  animation: sparkleGlow 3s ease-in-out infinite;
+}
+
