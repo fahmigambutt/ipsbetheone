@@ -45,6 +45,7 @@ export default function App() {
   const [nglMessages, setNglMessages] = useState<NGLMessage[]>([]);
 
   const [isLoading, setIsLoading] = useState(true);
+  const [loadError, setLoadError] = useState(false);
 
   const [maintenance, setMaintenance] = useState(false);
   const [maintenanceMsg, setMaintenanceMsg] = useState('');
@@ -119,8 +120,10 @@ export default function App() {
 
   // Load public data
   const loadPublicData = useCallback(async () => {
+    setLoadError(false);
     try {
       const res = await fetch('/api/public/all');
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
 
       if (data.maintenance) {
@@ -141,6 +144,7 @@ export default function App() {
       }
     } catch (err) {
       console.error('Failed to load public XII Social data:', err);
+      setLoadError(true);
     } finally {
       setIsLoading(false);
     }
@@ -223,6 +227,28 @@ export default function App() {
         }}
         onRefreshPublicData={loadPublicData}
       />
+    );
+  }
+
+  // Load error screen
+  if (!isLoading && loadError && !siteSettings) {
+    return (
+      <div className="min-h-screen bg-[#080808] text-white flex flex-col items-center justify-center p-6 text-center space-y-4 font-mono text-xs">
+        <div className="w-12 h-12 rounded-2xl bg-[#141414] border border-[#E50914]/50 flex items-center justify-center shadow-[0_0_30px_rgba(229,9,20,0.4)]">
+          <Sparkles className="w-6 h-6 text-[#E50914]" />
+        </div>
+        <span className="tracking-widest">GAGAL MEMUAT KENANGAN. PERIKSA KONEKSI ANDA.</span>
+        <button
+          onClick={() => {
+            setIsLoading(true);
+            loadPublicData();
+          }}
+          className="flex items-center gap-2 px-4 py-2 rounded-xl bg-[#E50914] hover:bg-[#b20710] transition-colors tracking-widest"
+        >
+          <RefreshCw className="w-4 h-4" />
+          COBA LAGI
+        </button>
+      </div>
     );
   }
 
